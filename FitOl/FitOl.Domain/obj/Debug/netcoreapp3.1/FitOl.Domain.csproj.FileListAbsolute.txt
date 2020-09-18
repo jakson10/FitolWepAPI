@@ -1,0 +1,9 @@
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Domain\bin\Debug\netcoreapp3.1\FitOl.Domain.deps.json
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Domain\bin\Debug\netcoreapp3.1\FitOl.Domain.dll
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Domain\obj\Debug\netcoreapp3.1\FitOl.Domain.AssemblyInfoInputs.cache
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Domain\obj\Debug\netcoreapp3.1\FitOl.Domain.AssemblyInfo.cs
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Domain\bin\Debug\netcoreapp3.1\FitOl.Domain.pdb
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Domain\obj\Debug\netcoreapp3.1\FitOl.Domain.dll
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Domain\obj\Debug\netcoreapp3.1\FitOl.Domain.pdb
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Domain\obj\Debug\netcoreapp3.1\FitOl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Domain\obj\Debug\netcoreapp3.1\FitOl.Domain.csprojAssemblyReference.cache

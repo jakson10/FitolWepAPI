@@ -1,0 +1,14 @@
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\bin\Release\netcoreapp3.1\FitOl.Service.deps.json
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\bin\Release\netcoreapp3.1\FitOl.Service.dll
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\bin\Release\netcoreapp3.1\FitOl.Service.pdb
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\bin\Release\netcoreapp3.1\FitOl.Domain.dll
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\bin\Release\netcoreapp3.1\FitOl.Repository.dll
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\bin\Release\netcoreapp3.1\FitOl.Repository.pdb
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\bin\Release\netcoreapp3.1\FitOl.Domain.pdb
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\obj\Release\netcoreapp3.1\FitOl.Service.csprojAssemblyReference.cache
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\obj\Release\netcoreapp3.1\FitOl.Service.AssemblyInfoInputs.cache
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\obj\Release\netcoreapp3.1\FitOl.Service.AssemblyInfo.cs
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\obj\Release\netcoreapp3.1\FitOl.Service.csproj.CoreCompileInputs.cache
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\obj\Release\netcoreapp3.1\FitOl.Service.csproj.CopyComplete
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\obj\Release\netcoreapp3.1\FitOl.Service.dll
+C:\Users\FatihSOZUER\source\repos\FitOl\FitOl.Service\obj\Release\netcoreapp3.1\FitOl.Service.pdb
